@@ -1,11 +1,11 @@
 # OCR
 **Overview:**
-    -`This is a project designed to scan an image containing text, and then translate it into a target language. It uses Optical Character Recognition (OCR) technology to get the text and the Google Translate API for translation.
+    -` This is a project designed to scan an image containing text, and then translate it into a target language. It uses Optical Character Recognition (OCR) technology to get the text and the Google Translate API for translation.
 
 
 **Features:**
-   -`It extracts text from images using Tesseract OCR.
-   -`Translate the text into a target language, (eg.English to Spanish).
+   -` It extracts text from images using Tesseract OCR.
+   -` Translate the text into a target language, (eg.English to Spanish).
 
 
 **Requirements:**
