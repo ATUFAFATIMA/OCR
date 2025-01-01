@@ -1,5 +1,5 @@
 # OCR
-Overview:
+**Overview:**
     This is a project designed to scan an image containing text, and then translate it into a target language. It uses Optical Character Recognition (OCR) technology to get the text and 
     the Google Translate API for translation.
 
