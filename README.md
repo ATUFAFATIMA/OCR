@@ -6,12 +6,14 @@ This is a project designed to scan an image containing text, and then translate 
 **Features:**
    - Extracts text from images using **Tesseract OCR**.
 - Translates the text into a target language (e.g., English to Spanish).
+- Displays bounding boxes around recognized words in the image.
 
 
 **Requirements:**
   - `pytesseract` (for OCR)
 - `Pillow` (Python Imaging Library)
 - `googletrans` (for translation)
+- `cv2` (OpenCV for image processing)
 
 **Example:**
 
@@ -28,8 +30,10 @@ This is a project designed to scan an image containing text, and then translate 
 "Este es un montón de texto de 12 puntos para probar el código OCR y ver si funciona en todos los tipos de formato de archivo. El rápido perro marrón saltó sobre el zorro perezoso.El perro marrón rápido saltó sobre el zorro perezoso.El perro marrón rápido saltó sobre el zorro perezoso.El rápido Brown Dog saltó sobre el zorro perezoso." (in spanish)
 
 **Script Explanation:**
-   OCR (Optical Character Recognition): The pytesseract library extracts text from the image.
-   The script uses googletrans to translate the text into a target language (e.g., English to Spanish).
+   -OCR (Optical Character Recognition): The pytesseract library extracts text from the image.
+   -The script uses googletrans to translate the text into a target language (e.g., English to Spanish).
+  - Bounding Boxes: The program uses OpenCV to draw boxes around detected text.
+
 
 
 
