@@ -10,7 +10,7 @@
 
 
 **Requirements:**
-  pytesseract (for OCR) \n
+  pytesseract (for OCR) 
   PIL (Python Imaging Library)
   googletrans (for translation)
 
