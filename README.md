@@ -29,7 +29,7 @@ This is a project designed to scan an image containing text, and then translate 
 
 **Script Explanation:**
    OCR (Optical Character Recognition): The pytesseract library extracts text from the image.
-   Language Detection: The script uses googletrans to detect the language and translate the text into a target language (e.g., English to Spanish).
+   The script uses googletrans to translate the text into a target language (e.g., English to Spanish).
 
 
 
