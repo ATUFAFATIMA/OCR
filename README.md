@@ -1,6 +1,6 @@
 # OCR
 **Overview:**
-    -` This is a project designed to scan an image containing text, and then translate it into a target language. It uses Optical Character Recognition (OCR) technology to get the text and the Google Translate API for translation.
+This is a project designed to scan an image containing text, and then translate it into a target language. It uses Optical Character Recognition (OCR) technology to get the text and the Google Translate API for translation.
 
 
 **Features:**
@@ -17,7 +17,7 @@
 
 **Input:**
 
-Image (1st.png): An image with the text "This is a lot of 12 point text to test the ocr code and see if it works on all types of file format.The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox." (English).
+**Image (1st.png):** An image with the text "This is a lot of 12 point text to test the ocr code and see if it works on all types of file format.The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox. The quick brown dog jumped over the lazy fox." (English).
 
 **Output:**
 
