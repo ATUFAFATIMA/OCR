@@ -4,8 +4,8 @@
 
 
 **Features:**
-   -` It extracts text from images using Tesseract OCR`.
-   -` Translate the text into a target language,` (eg.English to Spanish).
+   - Extracts text from images using **Tesseract OCR**.
+- Translates the text into a target language (e.g., English to Spanish).
 
 
 **Requirements:**
