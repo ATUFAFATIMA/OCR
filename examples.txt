@@ -1,0 +1,17 @@
+## Example Output
+
+**Input Image:**
+![Input Image](pictures/6th.png)
+
+**Extracted Text:**
+`"in addition, I have attended and delivered paper national conferences in the United Kingdom, the Canada, Australia, New Zealand, Papua New Guine Africa, Malawi, India and Angola.
+I have also, delivered lectures and conducted seminars at th (Department of Biological Anthropology, Departm upon-Tyne (Department of Human Genetics) and D in England, of Cave Town and the Witwatersrand
+Universiteit (in Afrikaans) in South Africa, the (Department of Human Biology, Department of Ant!"`
+
+**Translated Text (italian):**
+`"Inoltre, ho partecipato e consegnato carta Conferenze nazionali nel Regno Unito, il Canada, Australia, Nuova Zelanda, Papua New Guine Africa, Malawi, India e Angola.
+Ho anche, tenute lezioni e condotti seminari al th (Dipartimento di antropologia biologica, dipartimento su-tyne (Dipartimento di genetica umana) e D: in Inghilterra, 
+di Cave Town e Witwatersrand Universiteit (in afrikaans) in Sudafrica, (Dipartimento di biologia umana, Dipartimento di Ant!`
+
+**Output Image:**
+![Output Image](output images/output.png)
